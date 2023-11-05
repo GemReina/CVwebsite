@@ -4,3 +4,7 @@ Regarding the typography, I've chosen to use Courier's New's monospace font, as 
 Finally, I've divided my resume into two parts: the top part shows basic information such as contact info, languages and a little bit of who I am with some interests; the lower part shows my education and my work experience along with extra titles that could be helpful depending on the job. I've displayed the info in a way that is easy to read either on a small desktop or on a bigger desktop.
 
 The following is the link to my Figma design:
+https://www.figma.com/file/0DyG1rVuMabQTH7zUxkTV2/CV?type=design&node-id=0%3A1&mode=design&t=lyNzVQq6RRT6WZpY-1
+
+The following is the link to the webpage created by GitHub:
+https://gemreina.github.io/CVwebsite/
